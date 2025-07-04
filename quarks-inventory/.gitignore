@@ -1,0 +1,13 @@
+.idea/
+*.iml
+*.class
+/target/
+/out/
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+node_modules/
+.env
+*.jar
