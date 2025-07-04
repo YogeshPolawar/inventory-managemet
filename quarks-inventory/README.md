@@ -50,19 +50,6 @@ App runs at: `http://localhost:8080`
 
 Swagger UI available at: `http://localhost:8080/swagger-ui.html`
 
-### Run Tests
-
-```bash
-mvn test
-```
-
-## Docker Build & Run
-
-```bash
-mvn clean package
-docker build -t quarks-inventory .
-docker run -p 8080:8080 quarks-inventory
-```
 
 ## Author
 
